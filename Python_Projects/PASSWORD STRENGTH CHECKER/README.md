@@ -14,8 +14,8 @@ A simple python program that checks the strength of the password of the user
 ## Concepts Used
 * Variables
 * Input and Output
-* 'for' loop
-* 'if' - 'elif' - 'else'
+* `for` loop
+* `if`,`elif`,`else`
 * String Methods
 * Membership operator
 
