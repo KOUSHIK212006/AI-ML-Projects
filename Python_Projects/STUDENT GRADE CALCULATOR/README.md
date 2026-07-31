@@ -11,7 +11,7 @@ A simple Python program that calculates student's grade
 ## Concepts Used
 * Variables
 * Input and Output
-* 'if' / 'else'
+* `if`/`else`
 * Arithematic operators
 * Comparision operators 
 * max and min functions
