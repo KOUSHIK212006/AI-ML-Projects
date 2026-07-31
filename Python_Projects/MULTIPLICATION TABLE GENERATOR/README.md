@@ -10,7 +10,7 @@ A simple python program that generates a multiplication table of a number
 * variables
 * Input and Output
 * Arithematic operator 
-* 'for'loop
+* `for`loop
 * range()
 
 ## How to Run 
